@@ -1,0 +1,15 @@
+# ---- Node / React ----
+node_modules/
+dist/
+.build/
+npm-debug.log*
+
+# ---- Python / Flask ----
+__pycache__/
+*.py[cod]
+venv/
+.env  
+
+# ---- OS cruft ----
+.DS_Store
+Thumbs.db
